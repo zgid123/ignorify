@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "TypeScript": {
+      "source": "zgid123/skills",
+      "sourceType": "github",
+      "computedHash": "a5c7756a549d5e41374dfb1cb5e7b0ad5984a69963ca8f25c70f3a5b561203b5"
+    },
+    "Unit, Integration and E2E testing": {
+      "source": "zgid123/skills",
+      "sourceType": "github",
+      "computedHash": "8201539061750aec3e6821a5933656597a6cc477eb20fcbfc76c0d33ac42f52b"
+    }
+  }
+}
