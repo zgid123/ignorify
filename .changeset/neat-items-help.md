@@ -1,0 +1,5 @@
+---
+"ignify": patch
+---
+
+release
