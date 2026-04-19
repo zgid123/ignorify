@@ -1,11 +1,11 @@
 {
-  "name": "ignorify",
-  "version": "0.0.1",
+  "name": "ignify",
+  "version": "0.0.0",
   "description": "Create .gitignore for specific TechStacks",
   "author": "Alpha",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zgid123/ignorify.git"
+    "url": "git+https://github.com/zgid123/ignify.git"
   },
   "keywords": [
     "git",
@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "bin": {
-    "ignorify": "./lib/cli.cjs"
+    "ignify": "./lib/cli.cjs"
   },
   "files": [
     "lib"
